@@ -33,10 +33,12 @@
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html)
 - [Applied Cryptography: Protocols, algorithms, and Source code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028)
 - [Crypto101](https://www.crypto101.io/)
-- [Crypto101](https://www.schneier.com/books/cryptography_engineering/)
-- (https://cacr.uwaterloo.ca/hac/)
-- (http://www.cs.umd.edu/~jkatz/imc.html)
-- (https://simonsingh.net/books/the-code-book/)
+- [Bruce Shcneier: Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/)
+- [Handbook to applied Cryptography] (https://cacr.uwaterloo.ca/hac/)
+- [Modern Cryptography - For beginners](http://www.cs.umd.edu/~jkatz/imc.html)
+- [The Code Book](https://simonsingh.net/books/the-code-book/)
+    > - Focuses more on the history regarding Cryptography. Includes both ancient times and newer cryptographic methods. Exercises are included at the end of the book.  
 - [Serious Cryptography - A practical introduction to Modern Encryption By: Jean Philippe Aumasson](https://nostarch.com/seriouscrypto)
     > - very useful and in-depth book on important aspects regarding cryptographic operations and potential weaknesses in a modern environment - including a short section on PQC (Post Quantum Cyrptography~~ *Beware: Complete brain-fuck*)
--
+- [A self-study course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
+    > - Bruce Schneier has been involved in the creation of many cryptographic algorithms Most notably the Blowfish family  of Block Ciphers
