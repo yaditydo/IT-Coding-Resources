@@ -2,16 +2,8 @@
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
 ## Programming Resources
-- [ ] **Incomplete**
-- Python
-- Go
-- C/C++
-- Rust
-- Typescript
-- Javascript
-- HTML/CSS
-> - *More coming soon!*
-
+[ ] *Ongoing*
+[All things Programming sorted by langauge! 1000+ books and tutorials!](https://github.comyaditydo/IT-CodingResources/programmingtheworld.mc/)
 ## Networking Resources (Network+ CompTIA based)
 
 ## CyberSecurity/Network Security (Security+ CompTIA based)
