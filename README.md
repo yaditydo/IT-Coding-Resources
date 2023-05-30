@@ -2,8 +2,8 @@
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
 ## Programming Resources
-[ ] *Ongoing*
-[All things Programming sorted by langauge! 1000+ books and tutorials!](https://github.comyaditydo/IT-CodingResources/programmingtheworld.md/)
+
+[All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
 ## Networking Resources (Network+ CompTIA based)
 
 ## CyberSecurity/Network Security (Security+ CompTIA based)
