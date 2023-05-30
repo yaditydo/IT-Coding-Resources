@@ -1,5 +1,6 @@
 # IT/Resources for the Curious Fellas of the Interwebs
---------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+**Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
 ## Programming Resources
 - [ ] **Incomplete**
 - Python
@@ -34,7 +35,7 @@
 - [Applied Cryptography: Protocols, algorithms, and Source code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028)
 - [Crypto101](https://www.crypto101.io/)
 - [Bruce Shcneier: Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/)
-- [Handbook to applied Cryptography] (https://cacr.uwaterloo.ca/hac/)
+- [Handbook to applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 - [Modern Cryptography - For beginners](http://www.cs.umd.edu/~jkatz/imc.html)
 - [The Code Book](https://simonsingh.net/books/the-code-book/)
     > - Focuses more on the history regarding Cryptography. Includes both ancient times and newer cryptographic methods. Exercises are included at the end of the book.  
