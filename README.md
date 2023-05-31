@@ -1,17 +1,23 @@
-# IT/Resources for the Curious Fellas of the Interwebs
+# IT/Resources for the Curious Fellas of the Interwebs *Last update:5/31*
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
 ## Programming Resources
+[ ] Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking often. For any corrections. We want good trustworthy info,  not iffy GPT generated goobly goop 
+- [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
 
-[All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
-## Networking Resources (Network+ CompTIA based)
+## Certification resources ~ (Network+ CompTIA based) ~~ A+, Net+, Sec+, Linux+ and more!
+- [Professor Messor's Free Courses on youtube - CompTIA Full Free A+ Prep Course + Study material ](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
+- [Professor messor's Free CompTIA Networking+ Course + Study notes and more.](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
+- [Professor messor's free CompTIA Security+ Course + bonus materials](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
+## CyberSecurity/Hacking/Popular IT Forums to stay up to date with the community, connect with others, and share resources/tutorials.
+- [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
+- [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
+- [Null-Byte](https://null-byte.wonderhowto.com/)
+- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read. Extremely smart indivual with lots to learn from in security and cryptogrphic implementations and misonceptions](https://www.schneier.com/)
 
-## CyberSecurity/Network Security (Security+ CompTIA based)
-- 
-
-## Hacking Resources(Dont be a dumbass <3)
+## Hacking Resources(Dont be a dumbass <3) [ ] Incomplete ~-~ Work in Progress
 - [Cheatsheets for pentesting](https://github.com/OlivierLaflamme/Cheatsheet-God)
-- 
+
 
 ## Cryptography Resources -- A must read for anyone interested in Cybersecurity. Read, then read again.
 - https://asecuritysite.com/
@@ -31,7 +37,7 @@
 - [Modern Cryptography - For beginners](http://www.cs.umd.edu/~jkatz/imc.html)
 - [The Code Book](https://simonsingh.net/books/the-code-book/)
     > - Focuses more on the history regarding Cryptography. Includes both ancient times and newer cryptographic methods. Exercises are included at the end of the book.  
-- [Serious Cryptography - A practical introduction to Modern Encryption By: Jean Philippe Aumasson](https://nostarch.com/seriouscrypto)
+- [Serious Cryptography - A practical introduction to Modern Encryption By: Jean - Philippe Aumasson](https://nostarch.com/seriouscrypto)
     > - very useful and in-depth book on important aspects regarding cryptographic operations and potential weaknesses in a modern environment - including a short section on PQC (Post Quantum Cyrptography~~ *Beware: Complete brain-fuck*)
 - [A self-study course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
     > - Bruce Schneier has been involved in the creation of many cryptographic algorithms Most notably the Blowfish family  of Block Ciphers
