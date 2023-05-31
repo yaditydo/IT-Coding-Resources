@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
 ## Programming Resources
-[ ] Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking often. For any corrections. We want good trustworthy info,  not iffy GPT generated goobly goop 
+[  ] `~`Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking oftet to make any corrections.or any correction. We want good trustworthy info,  not iffy GPT generated goobly goop 
 - [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
 
 ## Certification resources ~ (Network+ CompTIA based) ~~ A+, Net+, Sec+, Linux+ and more!
