@@ -4,7 +4,8 @@
 ## Programming Resources
 [  ] `~`Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking oftet to make any corrections.or any correction. We want good trustworthy info,  not iffy GPT generated goobly goop 
 - [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
-
+##Quantum Computing Resources!
+[Comprehensive educational resources for all aspects of Quantum Computing and Programming Quantum Computers in particular [All Credit to: cmaitava0321]](https://github.com/camitava0321/quantumComputing)
 ## Certification resources ~ (Network+ CompTIA based) ~~ A+, Net+, Sec+, Linux+ and more!
 - [Professor Messor's Free Courses on youtube - CompTIA Full Free A+ Prep Course + Study material ](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 - [Professor messor's Free CompTIA Networking+ Course + Study notes and more.](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
