@@ -5,18 +5,23 @@
 [  ] `~`Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking oftet to make any corrections.or any correction. We want good trustworthy info,  not iffy GPT generated goobly goop 
 - [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
 
-##Quantum Computing Resources!
-- [Comprehensive educational resources for all aspects of Quantum Computing and Programming Quantum Computers in particular. | Credits to: camitava0321 for this awesome collection](https://github.com/camitava0321/quantumComputing)
-
-## Certification resources ~ (Network+ CompTIA based) ~~ A+, Net+, Sec+, Linux+ and more!
+## Quantum Computing Resources!
+- [Comprehensive educational resources for all aspects of Quantum Computing and Programming Quantum Computers in particular.](https://github.com/camitava0321/quantumComputing)
+- **All Credit to /camitava0321 for this awesome collection of such an obscure and interesting topic!**
+## Certification resources ~ (CompTIA Course based) ~~ A+, Net+, Sec+, Linux+, Pentest+ and more!
 - [Professor Messor's Free Courses on youtube - CompTIA Full Free A+ Prep Course + Study material ](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 - [Professor messor's Free CompTIA Networking+ Course + Study notes and more.](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
 - [Professor messor's free CompTIA Security+ Course + bonus materials](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
-## CyberSecurity/Hacking/Popular IT Forums to stay up to date with the community, connect with others, and share resources/tutorials.
+- [ ] *Comingsoon*
+- [ ] *Comingsoon*
+## CyberSecurity/Hacking/Popular IT Forums/news resources to stay up to date with the community, connect with others, and share resources/tutorials
 - [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
 - [Null-Byte](https://null-byte.wonderhowto.com/)
 - [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read. Extremely smart indivual with lots to learn from in security and cryptogrphic implementations and misonceptions](https://www.schneier.com/)
+!!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - In Fact probably don't download anything at all. It's just good information and tutorials. 
+
+*To be able to best outplay your opponoent it's important to figure out how they operate to best setup a proper strategical defense, response, and counter-attack. This applies to adversarial situation; not just Cyber Security.*
 
 ## Hacking Resources(Dont be a dumbass <3) [ ] Incomplete ~-~ Work in Progress
 - [Cheatsheets for pentesting](https://github.com/OlivierLaflamme/Cheatsheet-God)
@@ -27,7 +32,8 @@
     - This site was created as there is a real lack of engaging content within the theoretical and practical applications of cryptography on the Internet, especially in covering complex principles in an easy-to-access way. It aims to engage users within the opportunities that cryptography provides in building a more trustworthy and resilient digital world. The site thus contains a wide range of material related to cryptography, security, digital forensics, networking, and many other things.
 - https://cryptohack.org/
     - A fun, free platform for learning Modern Cryptography!
-    > To make an account you need to decrypt the secret phrase. It is a simple Caesar Cipher, Simply subtract 3 from the index value of each alphabet character to find the original plaintext of each character. EX: `A[0]->D[3]` `Z[25]->C[2]` Formula: E(X) = (x + n) mod 26 | D(X) = (X - n) mod 26
+    > To make an account you need to decrypt the secret phrase. It is a simple Caesar Cipher, Simply subtract 3 from the index value of each alphabet character to find the original plaintext of each character. Example: `A[0]->D[3]` `Z[25]->C[2]` 
+    > Formula: E(X) = (x + n) mod 26 | D(X) = (X - n) mod 26 {E: encryption, D: Decryption, X=unicode ordinal value of characterr 
 - https://github.com/sobolevn/awesome-cryptography
 ### Cryptography Books
 - [A graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
