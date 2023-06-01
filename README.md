@@ -19,10 +19,29 @@
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
 - [Null-Byte](https://null-byte.wonderhowto.com/)
 - [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read. Extremely smart indivual with lots to learn from in security and cryptogrphic implementations and misonceptions](https://www.schneier.com/)
-!!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - In Fact probably don't download anything at all. It's just good information and tutorials. 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+#### !!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - In Fact probably don't download anything at all. It's just good information and tutorials!!! 
 
-*To be able to best outplay your opponoent it's important to figure out how they operate to best setup a proper strategical defense, response, and counter-attack. This applies to adversarial situation; not just Cyber Security.*
+*"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained, you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."*
+                                                                    **-Sun Tzu(The Art of War)**
 
+This quote emphasizes the importance of understanding both your opponent and yourself in any adversarial situation. By gaining knowledge of your enemy's tactics, strengths, and weaknesses, as well as understanding your own capabilities and limitations, you can develop effective strategies that increase your chances of success.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hacking Resources(Dont be a dumbass <3) [ ] Incomplete ~-~ Work in Progress
 - [Cheatsheets for pentesting](https://github.com/OlivierLaflamme/Cheatsheet-God)
 
