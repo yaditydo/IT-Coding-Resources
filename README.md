@@ -27,8 +27,10 @@
 
 This quote emphasizes the importance of understanding both your opponent and yourself in any adversarial situation. By gaining knowledge of your enemy's tactics, strengths, and weaknesses, as well as understanding your own capabilities and limitations, you can develop effective strategies that increase your chances of success.
 
-
-
+**Disclaimer: Educational/Research Purposes ONLY!**
+https://hackingforums.net
+https://www.hackers-arise.com/welcome
+https://0x00sec.org
 
 
 
