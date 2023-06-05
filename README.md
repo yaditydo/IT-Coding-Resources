@@ -19,7 +19,7 @@
 - [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
 - [Null-Byte](https://null-byte.wonderhowto.com/)
-- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read. Extremely smart indivual with lots to learn from in security and cryptogrphic implementations and misonceptions](https://www.schneier.com/)
+- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read, Extremely intelligent indivual.](https://www.schneier.com/)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 #### !!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - Excesise Proper Caution at all times!!! - Educational purposes only. 
 
