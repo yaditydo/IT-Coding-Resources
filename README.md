@@ -1,6 +1,7 @@
 # IT/Resources for the Curious Fellas of the Interwebs *Last update:6/1*
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
+[x]One Rule: Must add a Sun Tzu quote upon submission of resources. Why? Why not.
 ## Programming Resources
 [  ] `~`Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking oftet to make any corrections.or any correction. We want good trustworthy info,  not iffy GPT generated goobly goop 
 - [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
@@ -20,7 +21,7 @@
 - [Null-Byte](https://null-byte.wonderhowto.com/)
 - [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read. Extremely smart indivual with lots to learn from in security and cryptogrphic implementations and misonceptions](https://www.schneier.com/)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-#### !!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - In Fact probably don't download anything at all. It's just good information and tutorials!!! 
+#### !!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - Excesise Proper Caution at all times!!! - Educational purposes only. 
 
 *"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained, you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."*
                                                                     **-Sun Tzu(The Art of War)**
