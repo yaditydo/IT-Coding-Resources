@@ -19,7 +19,7 @@
 - [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
 - [Null-Byte](https://null-byte.wonderhowto.com/)
-- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family pf ciphers. I higly reccomend giving his site a read, Extremely intelligent indivual.](https://www.schneier.com/)
+- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family of ciphers. I higly reccomend giving his site a read, Extremely intelligent indivual. His blog posts and general articles are extremely informative and imperative to staying up to date with modern Cryptographic trends as it relates to Cybersecurity.(https://www.schneier.com/)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 #### !!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - Excesise Proper Caution at all times!!! - Educational purposes only. 
 
@@ -46,49 +46,49 @@ https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2Unco
 https://cipher387.github.io/
 
  Multipurpose
-https://shodan.io/
-https://censys.io/
-https://onyphe.io/
-https://app.netlas.io/
-https://hunter.how/
-https://fofa.so/
-https://fullhunt.io/
-https://www.zoomeye.org/
-https://www.criminalip.io/
-https://leakix.net/
-https://www.yougetsignal.com/
-https://intelx.io/
-https://pentest-tools.com/
-https://gofindwhois.com/
-https://gofindwho.com/
+- https://shodan.io/
+- https://censys.io/
+- https://onyphe.io/
+- https://app.netlas.io/
+- https://hunter.how/
+- https://fofa.so/
+- https://fullhunt.io/
+- https://www.zoomeye.org/
+- https://www.criminalip.io/
+- https://leakix.net/
+- https://www.yougetsignal.com/
+- https://intelx.io/
+- https://pentest-tools.com/
+- https://gofindwhois.com/
+- https://gofindwho.com/
 ​
 # Track website changes
-https://visualping.io/
-https://web.archive.org
+- https://visualping.io/
+- https://web.archive.org
 ​
 # Domain Recon
-https://centralops.net
-https://viewdns.info/
-https://phpinfo.me/domain
-http://bgp.he.net/
-https://bgpview.io/
-https://suip.biz/
-https://dnsdumpster.com/
-https://www.whoxy.com/
-http://ipv4info.com/
-https://rapiddns.io/
-https://myip.ms/
-https://www.reversewhois.io/?
-https://www.whoxy.com/reverse-whois/
-https://reverse-whois.whoisxmlapi.com/api
+- https://centralops.net
+- https://viewdns.info/
+- https://phpinfo.me/domain
+- http://bgp.he.net/
+- https://bgpview.io/
+- https://suip.biz/
+- https://dnsdumpster.com/
+- https://www.whoxy.com/
+- http://ipv4info.com/
+- https://rapiddns.io/
+- https://myip.ms/
+- https://www.reversewhois.io/?
+- https://www.whoxy.com/reverse-whois/
+- https://reverse-whois.whoisxmlapi.com/api
 ​
 # Analytics
-https://mmhdan.herokuapp.com/
-https://publicwww.com/
-https://intelx.io/tools?tab=analytics
-https://dnslytics.com/reverse-analytics
-https://builtwith.com/
-​
+- https://mmhdan.herokuapp.com/
+- https://publicwww.com/
+- https://intelx.io/tools?tab=analytics
+- https://dnslytics.com/reverse-analytics
+- https://builtwith.com/
+- chkroot/chkrootkit
 ​
 ​
 # Mailserver blacklists
