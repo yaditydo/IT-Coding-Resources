@@ -39,11 +39,11 @@ https://0x00sec.org
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## OSINT Resources
 
-https://osintframework.com/
-https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
-https://start.me/p/DPYPMz/the-ultimate-osint-collection
-https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ
-https://cipher387.github.io/
+- https://osintframework.com/
+- https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
+- https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ
+- https://cipher387.github.io/
 
  Multipurpose
 - https://shodan.io/
