@@ -23,7 +23,7 @@ Why? Why not.
 - [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
 - [Null-Byte](https://null-byte.wonderhowto.com/)
-- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family of ciphers. I higly reccomend giving his site a read, Extremely intelligent indivual. His blog posts and general articles are extremely informative and imperative to staying up to date with modern Cryptographic trends as it relates to Cybersecurity.(https://www.schneier.com/)
+- [Bruce Schneier - A world renowned cryptogrpher born in the US mainly known for his assitance in constructing the Blowfish family of ciphers. I higly reccomend giving his site a read, Extremely intelligent indivual. His blog posts and general articles are extremely informative and imperative to staying up to date with modern Cryptographic trends as it relates to Cybersecurity.](https://www.schneier.com/)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 #### !!!Please be weary of malware and excersise proper caution when handling potentially dangerous files on these forums or anywhere!!! - Excesise Proper Caution at all times!!! - Educational purposes only. 
 
