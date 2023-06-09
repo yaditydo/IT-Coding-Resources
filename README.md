@@ -1,7 +1,11 @@
 # IT/Resources for the Curious Fellas of the Interwebs *Last update:6/1*
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
-[x]One Rule: Must add a Sun Tzu quote upon submission of resources. Why? Why not.
+[]One Rule: Must add a Sun Tzu quote upon submission of resources. 
+
+Why? Why not.
+   / ^ |
+|\/-_-|/|
 ## Programming Resources
 [  ] `~`Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking oftet to make any corrections.or any correction. We want good trustworthy info,  not iffy GPT generated goobly goop 
 - [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
@@ -13,8 +17,8 @@
 - [Professor Messor's Free Courses on youtube - CompTIA Full Free A+ Prep Course + Study material ](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 - [Professor messor's Free CompTIA Networking+ Course + Study notes and more.](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
 - [Professor messor's free CompTIA Security+ Course + bonus materials](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
-- [ ] *Comingsoon*
-- [ ] *Comingsoon*
+- [__] *Comingsoon* - Plenty of awesome linux stuff for free online.
+- [__] *Comingsoon*
 ## CyberSecurity/Hacking/Popular IT Forums/news resources to stay up to date with the community, connect with others, and share resources/tutorials
 - [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
@@ -35,7 +39,8 @@ https://0x00sec.org
 
 
 
-
+# USE MULLVAD VPN PAY WITH MONERO IF U CARE ABOUT YOUR PERSONAL DATA/INFORMATION! Encrypt DNS over HTTPS whenever possible :)
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## OSINT Resources
 
@@ -45,7 +50,7 @@ https://0x00sec.org
 - https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ
 - https://cipher387.github.io/
 
- Multipurpose
+### Multipurpose OSINT
 - https://shodan.io/
 - https://censys.io/
 - https://onyphe.io/
@@ -62,11 +67,11 @@ https://0x00sec.org
 - https://gofindwhois.com/
 - https://gofindwho.com/
 ​
-# Track website changes
+### Track website changes
 - https://visualping.io/
 - https://web.archive.org
 ​
-# Domain Recon
+### Domain Recon
 - https://centralops.net
 - https://viewdns.info/
 - https://phpinfo.me/domain
@@ -82,7 +87,7 @@ https://0x00sec.org
 - https://www.whoxy.com/reverse-whois/
 - https://reverse-whois.whoisxmlapi.com/api
 ​
-# Analytics
+### Analytics
 - https://mmhdan.herokuapp.com/
 - https://publicwww.com/
 - https://intelx.io/tools?tab=analytics
@@ -91,25 +96,25 @@ https://0x00sec.org
 - chkroot/chkrootkit
 ​
 ​
-# Mailserver blacklists
-http://multirbl.valli.org/
+### Mailserver blacklists
+- http://multirbl.valli.org/
 ​
-# Verify emails
-https://tools.emailhippo.com/
+### Verify emails
+- https://tools.emailhippo.com/
 ​
-# Dark web exposure
-https://immuniweb.com/radar/
+### Dark web exposure
+- https://immuniweb.com/radar/
 ​
 ​
-# Public APIs
-https://www.postman.com/explore/
-https://rapidapi.com/
+### Public APIs
+- https://www.postman.com/explore/
+- https://rapidapi.com/
 ​
-# APIs Recon
-https://serene-agnesi-57a014.netlify.app/
+### APIs Recon
+- https://serene-agnesi-57a014.netlify.app/
 ​
-# Exif Data 
-https://exif-viewer.com
+### Exif Data 
+- https://exif-viewer.com
 
 
 
@@ -117,11 +122,11 @@ https://exif-viewer.com
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Hacking Resources(Dont be a dumbass <3) [ ] Incomplete ~-~ Work in Progress
+### Hacking Resources(Dont be a dumbass <3) [ ] Incomplete ~-~ Work in Progress
 - [Cheatsheets for pentesting](https://github.com/OlivierLaflamme/Cheatsheet-God)
 
 
-## Cryptography Resources -- A must read for anyone interested in Cybersecurity. Read, then read again.
+### Cryptography Resources -- A must read for anyone interested in Cybersecurity. Read, then read again.
 - https://asecuritysite.com/
     - This site was created as there is a real lack of engaging content within the theoretical and practical applications of cryptography on the Internet, especially in covering complex principles in an easy-to-access way. It aims to engage users within the opportunities that cryptography provides in building a more trustworthy and resilient digital world. The site thus contains a wide range of material related to cryptography, security, digital forensics, networking, and many other things.
 - https://cryptohack.org/
