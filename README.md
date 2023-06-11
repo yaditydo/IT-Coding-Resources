@@ -5,7 +5,7 @@
 
 Why? Why not.
    / ^ |
-|\/-_-|/|
+|\/-_-|/| ^ \
 ## Programming Resources
 [  ] `~`Incomplete - Feel free to add anything useful:) please be sure to update documentation. I will be checking oftet to make any corrections.or any correction. We want good trustworthy info,  not iffy GPT generated goobly goop 
 - [All things Programming sorted by langauge! 1000+ books and tutorials!](./programmingtheworld.md/)
