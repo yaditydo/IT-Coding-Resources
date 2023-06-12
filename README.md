@@ -39,8 +39,7 @@ https://0x00sec.org
 
 
 
-# USE MULLVAD VPN PAY WITH MONERO IF U CARE ABOUT YOUR PERSONAL DATA/INFORMATION! Encrypt DNS over HTTPS on reg net whenever possible (::)<->(::)
-#                      _ _ _ _ _ 
+# USE MULLVAD VPN PAY WITH MONERO IF U CARE ABOUT YOUR PERSONAL DATA/INFORMATION! Encrypt DNS over HTTPS on reg net whenever possible (::)<->(::)\\\\\\\\\iykyk 
 ### Will add Personal Privacy Guides at some point as that seems to be a hot topic right now.
 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
