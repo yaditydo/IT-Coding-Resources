@@ -132,7 +132,7 @@ https://0x00sec.org
     - This site was created as there is a real lack of engaging content within the theoretical and practical applications of cryptography on the Internet, especially in covering complex principles in an easy-to-access way. It aims to engage users within the opportunities that cryptography provides in building a more trustworthy and resilient digital world. The site thus contains a wide range of material related to cryptography, security, digital forensics, networking, and many other things.
 - https://cryptohack.org/
     - A fun, free platform for learning Modern Cryptography!
-    > To make an account you need to decrypt the secret phrase. It is a simple Caesar Cipher, Simply subtract 3 from the index value of each alphabet character to find the original plaintext of each character. Example: `A[0]->D[3]` `Z[25]->C[2]` 
+    > To make an account you need to decrypt the secret phrase. It is a simple Caesar Cipher, Simply subtract 3 from the index value of each alphabet character to find the original plaintext of each character. Example: (Python List Index Format)`A[0]->D[2]` `Z[25]->C[2]` 
     > Formula: E(X) = (x + n) mod 26 | D(X) = (X - n) mod 26 {E: encryption, D: Decryption, X=unicode ordinal value of characterr 
 - https://github.com/sobolevn/awesome-cryptography
 ### Cryptography Books
