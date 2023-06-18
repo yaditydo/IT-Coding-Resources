@@ -1,9 +1,8 @@
 # IT/Resources for the Curious Fellas of the Interwebs *Last update:6/10*
 ----------------------------------------------------------------------------
 **Please feel free to add any resources of any kind that could be potentially useful, this page is a work in progress and will take all the help I can get! Thanks**
-[]One Rule: Must add a Sun Tzu quote upon submission of resources. 
-
-    Why? Why not.
+[ ]One Rule: Must add a Sun Tzu quote upon submission of resources. 
+Why? Why not.
    /  ^  |  ^  \
 / ^ |\|-_-|/| ^ \
 ## Programming Resources
