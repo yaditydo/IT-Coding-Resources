@@ -36,8 +36,7 @@ This quote emphasizes the importance of understanding both your opponent and you
 - https://hackingforums.net
 - https://www.hackers-arise.com/welcome
 - https://0x00sec.org
-- vx-underground.org (Malware source code FOR ANALYSIS AND LEARNING PURPOSES ONLY!)! #Dont be a silly goose
-   - Please.
+
 
 
 # USE MULLVAD VPN PAY WITH MONERO IF U CARE ABOUT YOUR PERSONAL DATA/INFORMATION! Encrypt DNS over HTTPS on reg net whenever possible (::)<->(::)\\\\\\\\\///////////
