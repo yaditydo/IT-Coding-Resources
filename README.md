@@ -33,16 +33,17 @@
 This quote emphasizes the importance of understanding both your opponent and yourself in any adversarial situation. By gaining knowledge of your enemy's tactics, strengths, and weaknesses, as well as understanding your own capabilities and limitations, you can develop effective strategies that increase your chances of success.
 
 **Disclaimer: Educational/Research Purposes ONLY!**
-https://hackingforums.net
-https://www.hackers-arise.com/welcome
-https://0x00sec.org
-
+- https://hackingforums.net
+- https://www.hackers-arise.com/welcome
+- https://0x00sec.org
+- vx-underground.org (Malware source code FOR ANALYSIS AND LEARNING PURPOSES ONLY!)! #Dont be a silly goose
+   - Please.
 
 
 # USE MULLVAD VPN PAY WITH MONERO IF U CARE ABOUT YOUR PERSONAL DATA/INFORMATION! Encrypt DNS over HTTPS on reg net whenever possible (::)<->(::)\\\\\\\\\///////////
 ### Will add Personal Privacy Guides at some point as that seems to be a hot topic right now.
 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------reee-------------------------------------------------------------------------------
 ## OSINT Resources
 
 - https://osintframework.com/
