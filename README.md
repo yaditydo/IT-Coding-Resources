@@ -15,8 +15,10 @@
 - [Professor Messor's Free Courses on youtube - CompTIA Full Free A+ Prep Course + Study material ](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 - [Professor messor's Free CompTIA Networking+ Course + Study notes and more.](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
 - [Professor messor's free CompTIA Security+ Course + bonus materials](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
-- [__] [Linux Full course](https://www.youtube.com/watch?v=sWbUDq4S6Y8&pp=ygUWcHJvZmVzc29yIG1lc3NlciBsaW51eA%3D%3D)
-- [__] [CompTIA Pentest+ Full Course (11 Hours)](https://www.youtube.com/watch?v=WczBlBjoQeI&pp=ygUXQ29tcFRJQSBQZW50ZXN0KyBjb3Vyc2U%3D)
+- [Linux Full course](https://www.youtube.com/watch?v=sWbUDq4S6Y8&pp=ygUWcHJvZmVzc29yIG1lc3NlciBsaW51eA%3D%3D)
+   - Tons of free resources everywhere for linux. Honestly GPT is usually best bet for learning the command line and different commands and there uses, usability, and pros/cons. - Will Be adding a sub-section for Prompts that I use regularly to 'Speed-Read' books and create small micro study plans to aid in memorization in a wide array of topics and other benefits etc.
+- [CompTIA Pentest+ Full Course (11 Hours)](https://www.youtube.com/watch?v=WczBlBjoQeI&pp=ygUXQ29tcFRJQSBQZW50ZXN0KyBjb3Vyc2U%3D)
+   - Loads and Loads of supplemental books and different resources via youtube, and InfoSec blog posts/Writeups.
 ## CyberSecurity/Hacking/Popular IT Forums/news resources to stay up to date with the community, connect with others, and share resources/tutorials
 - [John Hammond - Highly Experienced Cybersecurity professional with informative quick paced easy to understand quides and walkthroughs](https://www.youtube.com/@_JohnHammond)
 - [NetworkChuck - Various IT guides and informational videos.](https://www.youtube.com/c/networkchuck)
