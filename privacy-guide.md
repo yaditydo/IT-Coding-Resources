@@ -1,11 +1,5 @@
-DeepDotWeb.com is proud to present the “Jolly Roger’s Security Guide for Beginners.” T
-his Guide was made by the Jolly Roger — we found the publication on the hub forums
-on this thread:
-http://thehub7dnl5nmcz5.onion/index.php?topic=52.0
-We obtained the Original Poster’s permission to re-post this guide. If you want to
-contact the Original Poster, this is his profile on the hub forums:
-http://thehub7dnl5nmcz5.onion/index.php?action=profile;u=114
-Donations
+“Jolly Roger’s Security Guide for Beginners.” T
+his Guide was made by the Jolly Roger — 
 Jolly Roger has spent countless hours putting this thread together. If you gaine
 d some value and want to give back, He is accepting Bitcoin donations.
 Address: 1PkJ928QWC5BuQAsHoNQzRV5wfnveJSRCp
